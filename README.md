@@ -58,5 +58,6 @@ LeetCode
 - Day 42 - String compression.
 - Day 43   Weighted word mapping.
 - Day 44 - check good integer(contest 506).
+- Day 45 - Count Primes.
 
 More solutions will be added regularly.
