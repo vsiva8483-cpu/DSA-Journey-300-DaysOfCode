@@ -36,6 +36,11 @@ GeeksforGeeks
 - Day 38 - Delete Nodes with greater on right(potd).
 - Day 39 - Seating Arrangement(potd).
 - Day 40 - Binary searchable(potd).
+- Day 41 - Equal points in Brackets(potd).
+- Day 42 - Check Repeated substring with k replacements(potd).
+- Day 43 - Binary Strings with Equal sum of two halves(potd).
+- Day 44 - Exit point in a matrix(potd).
+- Day 45 - Minimum cost to fill given weight in a bag(potd).
 
 LeetCode
 
@@ -48,5 +53,10 @@ LeetCode
 - Day 37 - Largest Number.
 - Day 38 - Partition Array According to given pivot(potd).
 - Day 39 - Maximum Total sub Array | (potd).
+- Day 40 - Minimum total subArray || (Potd).
+- Day 41 - Number of ways to assign edge weights(potd).java
+- Day 42 - String compression.
+- Day 43   Weighted word mapping.
+- Day 44 - check good integer(contest 506).
 
 More solutions will be added regularly.
