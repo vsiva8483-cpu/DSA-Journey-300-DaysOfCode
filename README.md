@@ -41,7 +41,7 @@ GeeksforGeeks
 - Day 43 - Binary Strings with Equal sum of two halves(potd).
 - Day 44 - Exit point in a matrix(potd).
 - Day 45 - Minimum cost to fill given weight in a bag(potd).
-
+- Day 46 - Construct List using XOR Queries(potd).
 LeetCode
 
 - Day 31 - Minimum cost of Buying candies with discount(potd)
