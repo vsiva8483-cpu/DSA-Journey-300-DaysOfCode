@@ -42,6 +42,8 @@ GeeksforGeeks
 - Day 44 - Exit point in a matrix(potd).
 - Day 45 - Minimum cost to fill given weight in a bag(potd).
 - Day 46 - Construct List using XOR Queries(potd).
+- Day 47 - cut rope to maximum product(potd).
+- Day 48 - Coverage of all Zeroes in a Binary Matrix(potd)
 LeetCode
 
 - Day 31 - Minimum cost of Buying candies with discount(potd)
@@ -59,5 +61,7 @@ LeetCode
 - Day 43   Weighted word mapping.
 - Day 44 - check good integer(contest 506).
 - Day 45 - Count Primes.
+- Day 46 - Process Strings With Special Operations | (potd).
+- Day 47 - Nill(-).
 
 More solutions will be added regularly.
