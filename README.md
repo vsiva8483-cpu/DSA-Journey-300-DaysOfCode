@@ -63,5 +63,6 @@ LeetCode
 - Day 45 - Count Primes.
 - Day 46 - Process Strings With Special Operations | (potd).
 - Day 47 - Nill(-).
+- Day 48 - Angle Between Hands of a Clock(potd).
 
 More solutions will be added regularly.
