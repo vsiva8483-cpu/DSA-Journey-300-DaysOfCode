@@ -43,7 +43,8 @@ GeeksforGeeks
 - Day 45 - Minimum cost to fill given weight in a bag(potd).
 - Day 46 - Construct List using XOR Queries(potd).
 - Day 47 - cut rope to maximum product(potd).
-- Day 48 - Coverage of all Zeroes in a Binary Matrix(potd)
+- Day 48 - Coverage of all Zeroes in a Binary Matrix(potd).
+- Day 49 - Equalize all prefix sums(potd).
 LeetCode
 
 - Day 31 - Minimum cost of Buying candies with discount(potd)
