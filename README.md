@@ -46,8 +46,9 @@ GeeksforGeeks
 - Day 48 - Coverage of all Zeroes in a Binary Matrix(potd).
 - Day 49 - Equalize all prefix sums(potd).
 - Day 50 - Last digit of a^b(potd).
-LeetCode
 
+  LeetCode
+  
 - Day 31 - Minimum cost of Buying candies with discount(potd)
 - Day 32 - Earlier Finish Time for Land and Water Rides-|(potd)
 - Day 33 - Earlier Finish Time for Land and Water Rides - || (potd)
