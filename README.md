@@ -45,6 +45,7 @@ GeeksforGeeks
 - Day 47 - cut rope to maximum product(potd).
 - Day 48 - Coverage of all Zeroes in a Binary Matrix(potd).
 - Day 49 - Equalize all prefix sums(potd).
+- Day 50 - Last digit of a^b(potd).
 LeetCode
 
 - Day 31 - Minimum cost of Buying candies with discount(potd)
