@@ -69,6 +69,7 @@ GeeksforGeeks
 - Day 47 - Nill(-).
 - Day 48 - Angle Between Hands of a Clock(potd).
 - Day 49 - Find the Highest Altitude(potd).
+- Day 50 - Minimum Lights to illuminate a road.
 - Day 51 - Valid SubArrays with matching sum digits.
 - Day 52 - Maximum number of ballons.
 
