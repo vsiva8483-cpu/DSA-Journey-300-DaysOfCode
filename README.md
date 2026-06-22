@@ -46,6 +46,7 @@ GeeksforGeeks
 - Day 48 - Coverage of all Zeroes in a Binary Matrix(potd).
 - Day 49 - Equalize all prefix sums(potd).
 - Day 50 - Last digit of a^b(potd).
+- Day 51 & 52 - nill
 
   LeetCode
   
@@ -68,5 +69,7 @@ GeeksforGeeks
 - Day 47 - Nill(-).
 - Day 48 - Angle Between Hands of a Clock(potd).
 - Day 49 - Find the Highest Altitude(potd).
+- Day 51 - Valid SubArrays with matching sum digits.
+- Day 52 - Maximum number of ballons.
 
 More solutions will be added regularly.
