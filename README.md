@@ -47,6 +47,8 @@ GeeksforGeeks
 - Day 49 - Equalize all prefix sums(potd).
 - Day 50 - Last digit of a^b(potd).
 - Day 51 & 52 - nill
+- Day 53 - Maximum Number of People Defeated(potd)
+- Day 54 - nill.
 
   LeetCode
   
@@ -72,5 +74,7 @@ GeeksforGeeks
 - Day 50 - Minimum Lights to illuminate a road.
 - Day 51 - Valid SubArrays with matching sum digits.
 - Day 52 - Maximum number of ballons.
+- Day 53 - nill.
+- Day 54 - Best time to buy and sell stock
 
 More solutions will be added regularly.
