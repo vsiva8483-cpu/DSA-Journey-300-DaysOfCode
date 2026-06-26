@@ -49,6 +49,7 @@ GeeksforGeeks
 - Day 51 & 52 - nill
 - Day 53 - Maximum Number of People Defeated(potd)
 - Day 54 - nill.
+- Day 55 & 56 - nill
 
   LeetCode
   
@@ -76,5 +77,7 @@ GeeksforGeeks
 - Day 52 - Maximum number of ballons.
 - Day 53 - nill.
 - Day 54 - Best time to buy and sell stock
+- Day 55 - nill
+- Day 56  - sort colors
 
 More solutions will be added regularly.
