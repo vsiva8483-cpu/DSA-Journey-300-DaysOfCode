@@ -51,7 +51,7 @@ GeeksforGeeks
 - Day 54 - nill.
 - Day 55 & 56 - nill
 - Day 57 - nill
-
+- Day 58 & 59 - nill
   LeetCode
   
 - Day 31 - Minimum cost of Buying candies with discount(potd)
@@ -81,5 +81,7 @@ GeeksforGeeks
 - Day 55 - nill
 - Day 56  - sort colors
 - Day 57 - Remove Duplicates From Sorted Array ||.java
+- Day 58 - Maximum Total sum of k selected Elements.(contest 508)
+- Day 59 - Number of Strings That Appear Substrings as Word(potd)
 
 More solutions will be added regularly.
