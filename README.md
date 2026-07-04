@@ -52,6 +52,8 @@ GeeksforGeeks
 - Day 55 & 56 - nill
 - Day 57 - nill
 - Day 58 & 59 - nill
+- Day 60 & 61 - nill
+- Day 62 - Remove Duplicates From Sorted Array using Linked List
   LeetCode
   
 - Day 31 - Minimum cost of Buying candies with discount(potd)
@@ -83,5 +85,7 @@ GeeksforGeeks
 - Day 57 - Remove Duplicates From Sorted Array ||.java
 - Day 58 - Maximum Total sum of k selected Elements.(contest 508)
 - Day 59 - Number of Strings That Appear Substrings as Word(potd)
+- Day 60 & 61 - Nill
+- Day 62 Bi weekly Contest 186 - Unique Middle Element & Maximum Valid Pair sum
 
 More solutions will be added regularly.
