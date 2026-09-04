@@ -1,6 +1,6 @@
 # DSA-Journey-300DaysOfCode
 My Daily DSA problems solving journey using java.
-DSA Journey 🚀
+DSA Journey 
 
 Welcome to my Data Structures and Algorithms (DSA) journey repository.
 
@@ -87,5 +87,19 @@ GeeksforGeeks
 - Day 59 - Number of Strings That Appear Substrings as Word(potd)
 - Day 60 & 61 - Nill
 - Day 62 Bi weekly Contest 186 - Unique Middle Element & Maximum Valid Pair sum
+  
+###############
+SEPTEMBER MONTH LEET CODE
+- Minimum Moves To the clean class room (01-09-26)
+- Construct Uniform Parity Array I (02-09-26)
+- Construct Uniform Parity Array II (03-09-26)
+- Smallest Stable Index I (04-09-26)
 
+###############
+SEPTEMBER MONTH GFG POTD 
+- Count Palindromic Strings With Constraints (01-09-26)
+- Un Occupied Computers (02-09-26)
+- Max Adjacent Diff With Sum 1 Replacements (03-09-26)
+- Bird and Max Fruit Gathering (04-09-26)
+  
 More solutions will be added regularly.
