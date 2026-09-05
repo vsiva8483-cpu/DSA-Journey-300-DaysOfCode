@@ -94,6 +94,7 @@ SEPTEMBER MONTH LEET CODE
 - Construct Uniform Parity Array I (02-09-26)
 - Construct Uniform Parity Array II (03-09-26)
 - Smallest Stable Index I (04-09-26)
+- Smallest Stable Index II (05-09-26)
 
 ###############
 SEPTEMBER MONTH GFG POTD 
@@ -101,5 +102,6 @@ SEPTEMBER MONTH GFG POTD
 - Un Occupied Computers (02-09-26)
 - Max Adjacent Diff With Sum 1 Replacements (03-09-26)
 - Bird and Max Fruit Gathering (04-09-26)
+- Longest Subsequence With Adjacent as Diff 1 (05-09-26)
   
 More solutions will be added regularly.
