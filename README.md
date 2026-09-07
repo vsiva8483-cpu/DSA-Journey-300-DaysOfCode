@@ -95,7 +95,8 @@ SEPTEMBER MONTH LEET CODE
 - Construct Uniform Parity Array II (03-09-26)
 - Smallest Stable Index I (04-09-26)
 - Smallest Stable Index II (05-09-26)
-- Distinct Subsequences (06-09-26).
+- Distinct Subsequences I (06-09-26).
+- Distinct Subsequences II (07-09-26)
 
 ###############
 SEPTEMBER MONTH GFG POTD 
