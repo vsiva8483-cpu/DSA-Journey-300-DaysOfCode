@@ -96,7 +96,8 @@ SEPTEMBER MONTH LEET CODE
 - Smallest Stable Index I (04-09-26)
 - Smallest Stable Index II (05-09-26)
 - Distinct Subsequences I (06-09-26).
-- Distinct Subsequences II (07-09-26)
+- Distinct Subsequences II (07-09-26).
+- Word in Grid - All Occuerences (08-09-26)'
 
 ###############
 SEPTEMBER MONTH GFG POTD 
