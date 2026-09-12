@@ -97,8 +97,11 @@ SEPTEMBER MONTH LEET CODE
 - Smallest Stable Index II (05-09-26)
 - Distinct Subsequences I (06-09-26).
 - Distinct Subsequences II (07-09-26).
-- Word in Grid - All Occuerences (08-09-26).
-- Check for 4 sum (not potd) -> (08-09-26).
+- Count Commas in Range I (08-09-26).
+- Count commas in Range II (09-09-26).
+- Count Nodes Equal to Average of SubTree (10-09-26).
+- Unique 3-Digit Even Numbers (11-09-26).
+- Maximum Score of Non-Over Lapping Intervals (12-09-26). 
 
 ###############
 SEPTEMBER MONTH GFG POTD 
@@ -109,6 +112,10 @@ SEPTEMBER MONTH GFG POTD
 - Longest Subsequence With Adjacent as Diff 1 (05-09-26)
 - Sum of Pairwise ANDs (06-09-26).
 - Minimum Elements Outside Subsequneces (07-09-26).
-- Count Commas in Range (08-09-26).
+- Word in Grid - All Occuerences (08-09-26).
+- Max Digit Sum Number in 1 to n (09-09-26).
+- Pair With Given GCD and LCM (10-09-26).
+- Nill (11-09-26).
+- Max Product Subsequence of Size k (12-09-26). 
   
 More solutions will be added regularly.
