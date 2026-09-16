@@ -103,6 +103,7 @@ SEPTEMBER MONTH LEET CODE
 - Unique 3-Digit Even Numbers (11-09-26).
 - Maximum Score of Non-Over Lapping Intervals (12-09-26).
 - Image OverLaping (13-09-26).
+- No of sets of k non over lapping palindrome Line Segments (16-09-26).
 
 ###############
 SEPTEMBER MONTH GFG POTD 
@@ -119,5 +120,6 @@ SEPTEMBER MONTH GFG POTD
 - Nill (11-09-26).
 - Max Product Subsequence of Size k (12-09-26).
 - Party in Town (13-09-26).
+- Dominant Pairs (16-09-26).
   
 More solutions will be added regularly.
