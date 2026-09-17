@@ -104,6 +104,7 @@ SEPTEMBER MONTH LEET CODE
 - Maximum Score of Non-Over Lapping Intervals (12-09-26).
 - Image OverLaping (13-09-26).
 - No of sets of k non over lapping palindrome Line Segments (16-09-26).
+-   Find Two Non-over Lapping Sub Arrays Each With Target Sum (17-09-26).
 
 ###############
 SEPTEMBER MONTH GFG POTD 
@@ -121,5 +122,6 @@ SEPTEMBER MONTH GFG POTD
 - Max Product Subsequence of Size k (12-09-26).
 - Party in Town (13-09-26).
 - Dominant Pairs (16-09-26).
+- Min Edge Reversals For Path (17-09-26).
   
 More solutions will be added regularly.
