@@ -124,5 +124,6 @@ SEPTEMBER MONTH GFG POTD
 - Party in Town (13-09-26).
 - Dominant Pairs (16-09-26).
 - Min Edge Reversals For Path (17-09-26).
+- Minimum Absolute Difference in BST (18-09-26).
   
 More solutions will be added regularly.
