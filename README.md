@@ -106,6 +106,7 @@ SEPTEMBER MONTH LEET CODE
 - No of sets of k non over lapping palindrome Line Segments (16-09-26).
 - Find Two Non-over Lapping Sub Arrays Each With Target Sum (17-09-26).
 - Maximum Number of Non-OverLapping Substrings (18-09-26).
+- Circle and Rectangle Overlapping (19-09-26).
 
 ###############
 SEPTEMBER MONTH GFG POTD 
@@ -124,6 +125,7 @@ SEPTEMBER MONTH GFG POTD
 - Party in Town (13-09-26).
 - Dominant Pairs (16-09-26).
 - Min Edge Reversals For Path (17-09-26).
-- Minimum Absolute Difference in BST (18-09-26).
+- Minimum Absolute Difference in BST (18-09-26
+- Min Cost To Make Two Strings Identical (19-09-26).
   
 More solutions will be added regularly.
