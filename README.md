@@ -128,6 +128,6 @@ SEPTEMBER MONTH GFG POTD
 - Min Edge Reversals For Path (17-09-26).
 - Minimum Absolute Difference in BST (18-09-26
 - Min Cost To Make Two Strings Identical (19-09-26).
-- 
+- Largest Subsquare Surrounded by X. (20-09-26).
   
 More solutions will be added regularly.
