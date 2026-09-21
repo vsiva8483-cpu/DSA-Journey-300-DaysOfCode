@@ -108,6 +108,7 @@ SEPTEMBER MONTH LEET CODE
 - Maximum Number of Non-OverLapping Substrings (18-09-26).
 - Circle and Rectangle Overlapping (19-09-26).
 - Reverse Degree of a String.(20-09-26).
+- Find X Value of Array I.(21-09-26).
 
 ###############
 SEPTEMBER MONTH GFG POTD 
