@@ -109,6 +109,7 @@ SEPTEMBER MONTH LEET CODE
 - Circle and Rectangle Overlapping (19-09-26).
 - Reverse Degree of a String.(20-09-26).
 - Find X Value of Array I.(21-09-26).
+- Find X Value of Array II. (22-09-26).
 
 ###############
 SEPTEMBER MONTH GFG POTD 
@@ -131,5 +132,6 @@ SEPTEMBER MONTH GFG POTD
 - Min Cost To Make Two Strings Identical (19-09-26).
 - Largest Subsquare Surrounded by X. (20-09-26).
 - Check Level Anagrams in Binary Trees. (21-09-26).
+- Longest Matching in Dictionary with Removals. (22-09-26).
   
 More solutions will be added regularly.
