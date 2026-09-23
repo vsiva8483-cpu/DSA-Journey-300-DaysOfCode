@@ -110,6 +110,7 @@ SEPTEMBER MONTH LEET CODE
 - Reverse Degree of a String.(20-09-26).
 - Find X Value of Array I.(21-09-26).
 - Find X Value of Array II. (22-09-26).
+- Minimum Operations Reduce X to Zero. (23-09-26).
 
 ###############
 SEPTEMBER MONTH GFG POTD 
