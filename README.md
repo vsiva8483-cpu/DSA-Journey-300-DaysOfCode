@@ -133,5 +133,6 @@ SEPTEMBER MONTH GFG POTD
 - Largest Subsquare Surrounded by X. (20-09-26).
 - Check Level Anagrams in Binary Trees. (21-09-26).
 - Longest Matching in Dictionary with Removals. (22-09-26).
+- Pyramids Array with Reduce Operations. (23-09-26).
   
 More solutions will be added regularly.
