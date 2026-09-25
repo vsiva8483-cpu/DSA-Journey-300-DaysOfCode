@@ -112,6 +112,7 @@ SEPTEMBER MONTH LEET CODE
 - Find X Value of Array II. (22-09-26).
 - Minimum Operations Reduce X to Zero. (23-09-26).
 - Smallest Index With Digit sum equal to index. (24-09-26).
+- Brace Expansion. (25-09-26).
 
 ###############
 SEPTEMBER MONTH GFG POTD 
@@ -137,5 +138,6 @@ SEPTEMBER MONTH GFG POTD
 - Longest Matching in Dictionary with Removals. (22-09-26).
 - Pyramids Array with Reduce Operations. (23-09-26).
 - Maximum Height Disc Stack. (24-09-26).
+- Box Stacking. (25-09-26).
   
 More solutions will be added regularly.
