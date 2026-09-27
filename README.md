@@ -113,6 +113,7 @@ SEPTEMBER MONTH LEET CODE
 - Minimum Operations Reduce X to Zero. (23-09-26).
 - Smallest Index With Digit sum equal to index. (24-09-26).
 - Brace Expansion. (25-09-26).
+- Reverse Substrings Between Each Pair of Parentheses. (27-09-26).
 
 ###############
 SEPTEMBER MONTH GFG POTD 
@@ -139,5 +140,6 @@ SEPTEMBER MONTH GFG POTD
 - Pyramids Array with Reduce Operations. (23-09-26).
 - Maximum Height Disc Stack. (24-09-26).
 - Box Stacking. (25-09-26).
+- Longest Colored Path. (27-09-26).
   
 More solutions will be added regularly.
