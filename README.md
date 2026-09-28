@@ -114,6 +114,7 @@ SEPTEMBER MONTH LEET CODE
 - Smallest Index With Digit sum equal to index. (24-09-26).
 - Brace Expansion. (25-09-26).
 - Reverse Substrings Between Each Pair of Parentheses. (27-09-26).
+- Maximum Nesting Depth of the parentheses. (28-09-26).
 
 ###############
 SEPTEMBER MONTH GFG POTD 
@@ -141,5 +142,5 @@ SEPTEMBER MONTH GFG POTD
 - Maximum Height Disc Stack. (24-09-26).
 - Box Stacking. (25-09-26).
 - Longest Colored Path. (27-09-26).
-  
+- Range GCD Queries. (28-09-26).
 More solutions will be added regularly.
