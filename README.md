@@ -115,6 +115,7 @@ SEPTEMBER MONTH LEET CODE
 - Brace Expansion. (25-09-26).
 - Reverse Substrings Between Each Pair of Parentheses. (27-09-26).
 - Maximum Nesting Depth of the parentheses. (28-09-26).
+- Maximum Nesting Depth of the Parentheses Strings. (30-09-26). 
 
 ###############
 SEPTEMBER MONTH GFG POTD 
@@ -143,4 +144,5 @@ SEPTEMBER MONTH GFG POTD
 - Box Stacking. (25-09-26).
 - Longest Colored Path. (27-09-26).
 - Range GCD Queries. (28-09-26).
+- Ways to Reach Origin. (30-09-26).
 More solutions will be added regularly.
