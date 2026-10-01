@@ -20,7 +20,7 @@ Goal
 - Improve problem-solving skills
 - Strengthen DSA concepts
 - Maintain consistency through daily practice
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Progress
 
 GeeksforGeeks
@@ -54,7 +54,9 @@ GeeksforGeeks
 - Day 58 & 59 - nill
 - Day 60 & 61 - nill
 - Day 62 - Remove Duplicates From Sorted Array using Linked List
-  LeetCode
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LeetCode
   
 - Day 31 - Minimum cost of Buying candies with discount(potd)
 - Day 32 - Earlier Finish Time for Land and Water Rides-|(potd)
@@ -86,10 +88,11 @@ GeeksforGeeks
 - Day 58 - Maximum Total sum of k selected Elements.(contest 508)
 - Day 59 - Number of Strings That Appear Substrings as Word(potd)
 - Day 60 & 61 - Nill
-- Day 62 Bi weekly Contest 186 - Unique Middle Element & Maximum Valid Pair sum
-  
-###############
+- Day 62 Bi weekly Contest 186 - Unique Middle Element & Maximum Valid Pair sum..
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
 SEPTEMBER MONTH LEET CODE
+
 - Minimum Moves To the clean class room (01-09-26)
 - Construct Uniform Parity Array I (02-09-26)
 - Construct Uniform Parity Array II (03-09-26)
@@ -116,10 +119,16 @@ SEPTEMBER MONTH LEET CODE
 - Reverse Substrings Between Each Pair of Parentheses. (27-09-26).
 - Maximum Nesting Depth of the parentheses. (28-09-26).
 - Check if there is Valid Parentheses Strings. (29-09-26).
-- Maximum Nesting Depth of the Parentheses Strings. (30-09-26). 
+- Maximum Nesting Depth of the Parentheses Strings. (30-09-26).
+  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+October Month Leet Code Daily Challenges...
 
-###############
-SEPTEMBER MONTH GFG POTD 
+- 01-10-26-> Valid Parentheses..(potd).
+- 01-10-26-> Sort Array By Parity...(Two Pointers Approach).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------SEPTEMBER MONTH GFG POTD 
+
 - Count Palindromic Strings With Constraints (01-09-26)
 - Un Occupied Computers (02-09-26)
 - Max Adjacent Diff With Sum 1 Replacements (03-09-26)
@@ -147,4 +156,10 @@ SEPTEMBER MONTH GFG POTD
 - Range GCD Queries. (28-09-26).
 - Min Steps By Knight. (29-09-26).
 - Ways to Reach Origin. (30-09-26).
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+October Month Geeks For Geeks Problem of the day 
+
+- 01-10-26-> Minimum Time To Finish Project.(potd)...
+
+   
 More solutions will be added regularly.
