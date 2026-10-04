@@ -128,6 +128,7 @@ October Month Leet Code Daily Challenges...
 - 01-10-26-> Sort Array By Parity...(Two Pointers Approach).
 - 02-10-26-> Generate Parentheses..(potd)..
 - 03-10-26-> Longest Valid Parentheses..(potd).
+- 04-10-26-> Valid Parentheses String.(potd).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SEPTEMBER MONTH GFG POTD 
@@ -165,5 +166,6 @@ October Month Geeks For Geeks Problem of the day
 - 01-10-26-> Minimum Time To Finish Project.(potd)...
 - 02-10-26-> Lexicographically Smallest Rotation.(potd)...
 - 03-10-26-> Coils in Matrix.(potd)..
+- 04-10-26-> Perimeter of Shapes in Binary Matrix.(potd)...
    
 More solutions will be added regularly.
