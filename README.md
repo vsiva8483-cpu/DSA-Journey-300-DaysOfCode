@@ -129,6 +129,9 @@ October Month Leet Code Daily Challenges...
 - 02-10-26-> Generate Parentheses..(potd)..
 - 03-10-26-> Longest Valid Parentheses..(potd).
 - 04-10-26-> Valid Parentheses String.(potd).
+- 05-10-26-> Score Of Parentheses.(potd)..
+- 06-10-26-> Minimum Add to Make Parentheses Valid.(potd)..
+- 06-10-26-> Number of Arithmetic Triplets.(Brute Force)..
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SEPTEMBER MONTH GFG POTD 
@@ -167,5 +170,7 @@ October Month Geeks For Geeks Problem of the day
 - 02-10-26-> Lexicographically Smallest Rotation.(potd)...
 - 03-10-26-> Coils in Matrix.(potd)..
 - 04-10-26-> Perimeter of Shapes in Binary Matrix.(potd)...
+- 05-10-26-> Your Social Network.(potd)..
+- 06-10-26-> Longest Increasing Path In Matrix.(potd)..
    
 More solutions will be added regularly.
