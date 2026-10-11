@@ -132,6 +132,11 @@ October Month Leet Code Daily Challenges...
 - 05-10-26-> Score Of Parentheses.(potd)..
 - 06-10-26-> Minimum Add to Make Parentheses Valid.(potd)..
 - 06-10-26-> Number of Arithmetic Triplets.(Brute Force)..
+- 07-10-26-> Remove Invalid Parentheses.
+- 08-10-26-> Remove outer Most Parentheses.
+- 09-10-26-> Minimum Insertions to Balance a Parentheses Strings.
+- 10-10-26-> Minimum Sum Of Squared Difference.
+- 11-10-26-> Sum of Square of Special Elements.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SEPTEMBER MONTH GFG POTD 
@@ -172,5 +177,10 @@ October Month Geeks For Geeks Problem of the day
 - 04-10-26-> Perimeter of Shapes in Binary Matrix.(potd)...
 - 05-10-26-> Your Social Network.(potd)..
 - 06-10-26-> Longest Increasing Path In Matrix.(potd)..
+- 07-10-26-> Max Path Sum Between Two Leaves..
+- 08-10-26-> Maximum Frequency with k Increments..
+- 09-10-26-> Minimum Operations to reach n..
+- 10-10-26-> Balancing with Distinct Powers..
+- 11-10-26-> Sort Two Parts Sorted..
    
 More solutions will be added regularly.
