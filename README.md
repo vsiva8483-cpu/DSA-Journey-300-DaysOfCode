@@ -137,6 +137,7 @@ October Month Leet Code Daily Challenges...
 - 09-10-26-> Minimum Insertions to Balance a Parentheses Strings.
 - 10-10-26-> Minimum Sum Of Squared Difference.
 - 11-10-26-> Sum of Square of Special Elements.
+- 12-10-26-> Apply Operations on Array to Max Sum Of Squares..
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SEPTEMBER MONTH GFG POTD 
@@ -182,5 +183,6 @@ October Month Geeks For Geeks Problem of the day
 - 09-10-26-> Minimum Operations to reach n..
 - 10-10-26-> Balancing with Distinct Powers..
 - 11-10-26-> Sort Two Parts Sorted..
+- 12-10-26-> Minimum Squares with Full Cuts..
    
 More solutions will be added regularly.
