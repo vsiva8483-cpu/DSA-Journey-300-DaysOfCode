@@ -138,6 +138,7 @@ October Month Leet Code Daily Challenges...
 - 10-10-26-> Minimum Sum Of Squared Difference.
 - 11-10-26-> Sum of Square of Special Elements.
 - 12-10-26-> Apply Operations on Array to Max Sum Of Squares..
+- 13-10-26-> Maximum Alternating Sum of squares..
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SEPTEMBER MONTH GFG POTD 
@@ -184,5 +185,6 @@ October Month Geeks For Geeks Problem of the day
 - 10-10-26-> Balancing with Distinct Powers..
 - 11-10-26-> Sort Two Parts Sorted..
 - 12-10-26-> Minimum Squares with Full Cuts..
+- 13-10-26-> Adding Ones..
    
 More solutions will be added regularly.
